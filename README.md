@@ -15,8 +15,11 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
-![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-)
-
+![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ###
-![status](https://github-readme-stats.vercel.app/api?username={borgesvinicius}&theme=black-orange)
+<div>
+
+![Borges GitHub stats](https://github-readme-stats.vercel.app/api?username=borgesvinicius&theme=dracula)
+ 
+## ✨Sou adimirador de tecnologias e venho me dedicado a estudar .
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesvinicius&layout=compact)](https://github.com/borgesvinicius/github-readme-stats)
