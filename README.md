@@ -21,5 +21,5 @@
 
 ![Borges GitHub stats](https://github-readme-stats.vercel.app/api?username=borgesvinicius&theme=dracula)
  
-## ✨Sou adimirador de tecnologias e venho me dedicado a estudar .
+## ✨Sou adimirador de tecnologias e venho me dedicando a estudar .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesvinicius&layout=compact)](https://github.com/borgesvinicius/github-readme-stats)
