@@ -1,6 +1,7 @@
 ### Olá eu sou o Vinícius Borges 🐯
-✔ Trabalho com Front-End
+✔Formação Fullstack GrowDev
 ✔ Estudando atualmente React
+
 ##
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/(https://www.linkedin.com/in/vinicius-oliveira-58a778220/)
 )
@@ -22,4 +23,5 @@
 ![Borges GitHub stats](https://github-readme-stats.vercel.app/api?username=borgesvinicius&theme=dracula)
  
 ## ✨Sou adimirador de tecnologias e venho me dedicando a estudar .
+## Meus hobbies são praticar esportes , musculação , corrida , skate , muaythay e jiujitsu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesvinicius&layout=compact)](https://github.com/borgesvinicius/github-readme-stats)
