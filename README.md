@@ -1,6 +1,6 @@
 ### Olá eu sou o Vinícius Borges 🐯
 ✔ Trabalho com Front-End
-✔ Estudando atualmente React e React Native 
+✔ Estudando atualmente React
 ##
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/(https://www.linkedin.com/in/vinicius-oliveira-58a778220/)
 )
